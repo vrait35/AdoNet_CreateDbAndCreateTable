@@ -1,0 +1,14 @@
+C:\Users\anuar\source\repos\Ado.Net_create_dbAndTable\Ado.Net_create_dbAndTable\bin\Debug\Ado.Net_create_dbAndTable.exe.config
+C:\Users\anuar\source\repos\Ado.Net_create_dbAndTable\Ado.Net_create_dbAndTable\bin\Debug\Ado.Net_create_dbAndTable.exe
+C:\Users\anuar\source\repos\Ado.Net_create_dbAndTable\Ado.Net_create_dbAndTable\bin\Debug\Ado.Net_create_dbAndTable.pdb
+C:\Users\anuar\source\repos\Ado.Net_create_dbAndTable\Ado.Net_create_dbAndTable\obj\Debug\Ado.Net_create_dbAndTable.csprojResolveAssemblyReference.cache
+C:\Users\anuar\source\repos\Ado.Net_create_dbAndTable\Ado.Net_create_dbAndTable\obj\Debug\Ado.Net_create_dbAndTable.csproj.CoreCompileInputs.cache
+C:\Users\anuar\source\repos\Ado.Net_create_dbAndTable\Ado.Net_create_dbAndTable\obj\Debug\Ado.Net_create_dbAndTable.exe
+C:\Users\anuar\source\repos\Ado.Net_create_dbAndTable\Ado.Net_create_dbAndTable\obj\Debug\Ado.Net_create_dbAndTable.pdb
+C:\Users\темирбулата\Desktop\Ado.Net_CreareDbAndTable-master\Ado.Net_create_dbAndTable\bin\Debug\Ado.Net_create_dbAndTable.exe.config
+C:\Users\темирбулата\Desktop\Ado.Net_CreareDbAndTable-master\Ado.Net_create_dbAndTable\bin\Debug\Ado.Net_create_dbAndTable.exe
+C:\Users\темирбулата\Desktop\Ado.Net_CreareDbAndTable-master\Ado.Net_create_dbAndTable\bin\Debug\Ado.Net_create_dbAndTable.pdb
+C:\Users\темирбулата\Desktop\Ado.Net_CreareDbAndTable-master\Ado.Net_create_dbAndTable\obj\Debug\Ado.Net_create_dbAndTable.csprojAssemblyReference.cache
+C:\Users\темирбулата\Desktop\Ado.Net_CreareDbAndTable-master\Ado.Net_create_dbAndTable\obj\Debug\Ado.Net_create_dbAndTable.csproj.CoreCompileInputs.cache
+C:\Users\темирбулата\Desktop\Ado.Net_CreareDbAndTable-master\Ado.Net_create_dbAndTable\obj\Debug\Ado.Net_create_dbAndTable.exe
+C:\Users\темирбулата\Desktop\Ado.Net_CreareDbAndTable-master\Ado.Net_create_dbAndTable\obj\Debug\Ado.Net_create_dbAndTable.pdb
